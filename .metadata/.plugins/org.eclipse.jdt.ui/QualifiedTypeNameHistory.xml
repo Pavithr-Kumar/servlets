@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.GenericServlet"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.annotation.WebFilter"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.dto.IsaCriteria"/>
+    <fullyQualifiedTypeName name="java.util.ResourceBundle"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.beans.Statement"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.dto.Recruiter"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.dao.impl.IsaApplicantDaoImpl"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="org.apache.catalina.Session"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.dbconfig.ConnectionFactory"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.dao.impl.ApplicantDaoImpl"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.dto.SearchCriteria"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.dto.IsaDto"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.dao.impl.InterviewerDaoImpl"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.dto.Interviewer"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.dao.impl.IsaSkillDaoImpl"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.service.impl.InterviewerServices"/>
+    <fullyQualifiedTypeName name="com.zettamine.ConnectionFactory"/>
+    <fullyQualifiedTypeName name="org.json.JSONObject"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.dto.Status"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.sql.Time"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.view.dao.impl.IsaInterviewScheduleDaoImpl"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.dto.ScheduleInterview"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.service.impl.ScheduleInterviewService"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.service.impl.ApplicantServices"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.service.impl.SkillService"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.view.dto.InterviewScheduleView"/>
+    <fullyQualifiedTypeName name="com.zettamine.isa.dto.IsaSearchCriteria"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.RequestDispatcher"/>
+</qualifiedTypeNameHistroy>

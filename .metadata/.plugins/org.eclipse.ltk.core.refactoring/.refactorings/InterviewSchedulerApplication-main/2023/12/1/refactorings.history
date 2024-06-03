@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SkillService.java&apos; to &apos;interview-scheduler/src/main/java/com.zettamine.isa.service&apos;&#x0D;&#x0A;- Original project: &apos;InterviewSchedulerApplication-main&apos;&#x0D;&#x0A;- Destination element: &apos;interview-scheduler/src/main/java/com.zettamine.isa.service&apos;&#x0D;&#x0A;- Original element: &apos;SkillService.java&apos;" description="Copy file" destination="=interview-scheduler/src\/main\/java&lt;com.zettamine.isa.service" element1="InterviewSechdulerApplication/src/main/java/com/zettamine/isa/service/impl/SkillService.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1704010325828" units="0" version="1.0"/>
+</session>
